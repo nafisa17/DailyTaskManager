@@ -45,3 +45,6 @@ Created by **Nafisa Anjum** with the help of **ChatGPT**. 🤖✨
 
 ### 📜 **License**
 This project is licensed under the **MIT License**.
+
+### **UI of the app**
+![image](https://github.com/user-attachments/assets/b0a58475-42a8-484e-8b16-152536aa89b9)
